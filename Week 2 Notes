@@ -62,7 +62,7 @@ banana -= 3
 print("banana " + str(banana))
 
 
-# casting = help the computer compile
+# casting = 
 # str(the variable that you want to cast)
 
 var1 = 7
