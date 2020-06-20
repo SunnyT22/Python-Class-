@@ -1,1 +1,6 @@
-
+#  Get an input from the user which asks them to say their favorite ice-cream flavor.
+#  If the ice cream is vanilla, reply with YUM
+#  If the ice cream is strawberry, reply with your choice.
+#  Same for chocolate.
+#  You can add as many flavors as you can think of or just 3.
+#  If it isn't any of the flavors reply " I wanna eat some"
