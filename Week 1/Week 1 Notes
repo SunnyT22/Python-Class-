@@ -1,1 +1,57 @@
+Python Week 1- Class Notes
 
+Computer Programming
+- Computers are stupid so we have to be clear
+-front end(what you can see) and back end(logic)
+-full stack... that's both
+-Abstract
+
+Python
+-Easy to understand
+-Uses
+  - Netflix's
+  - Drobox's front pade
+- Printing is important, shows what the computer is thinking
+- Comments 
+  - In python comments are when # precedes a line of text
+  -"command" +"/"
+-blank space
+
+Variable: used to store information to be referenced and manipulated in a computer program
+  - 
+  -
+  -
+  -
+- Syntax
+Naming covention
+-start with lowercase 
+
+
+- Instantiatings
+
+
+Operations
+- +, -, *, /
+- //
+- %
+num1 = 5
+num2 = 2
+
+print(num1/ num2)
+print(num1// num2)
+print(num1 % num2)
+
+Data Types
+- String:
+- Int:
+- Float:
+- Double:
+- Boolean (bool): 
+etc.
+
+
+
+
+Copy and Paste this LINK to see HW: https://forms.gle/WmRX8bRXLeAkMk977 and also go to this link https://github.com/SunnyT22/Python-Class- to see materials and the other HW
+
+Class Survey: https://forms.gle/5CTaudZSMpNgDXf8A
