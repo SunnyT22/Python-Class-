@@ -1,1 +1,4 @@
-
+Example: Get a number from the user. 
+1. If the number is odd, print countdown to 0
+2. If the number is even, print a countdown up to 15
+ 2b. However, anytime you wnat to print the number 13, the gives an error that says "I can't handle 13"
