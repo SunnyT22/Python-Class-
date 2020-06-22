@@ -35,22 +35,22 @@ Naming covention
 
 # Example
 
-- Instantiating: assigning the variable its value, represent as or by an instance.
+- Instantiating: assigning the variable its value, DICTIONARY DEFENITION: represent as or by an instance.
 
 - 
 
 Operations
 - +, -, *, /
-- //
-- %
+- // - rounds number
+- % - gives remainder
 num1 = 5
 num2 = 2
 
 # Example
 
 Data Types
-- String: word or character- "" or ''
-- Int: Integer
+- String(str): word or character- "" or ''
+- Int(int): Integer
 - Float: decimal
 - Double:
 - Boolean (bool): True False
