@@ -1,0 +1,123 @@
+# ---------
+
+# Strings
+# -collection of alphabets, words, or other characters
+#  - a bunch of characters put together
+# -primitive data structures
+# -building block for data manipulation
+# - string is defined by a single/double quote '' or "" 
+
+# ---------
+
+# String operations (review)
+# - concatation: putting strings together using + operator
+# - *same as algebra....
+
+
+# ---------
+
+# Accessing characters in a string
+
+# - Indexing
+s = "computer"
+print(s[0])
+#indexing is done with integers 
+
+# - Negative Indexing
+a = "random"
+print(a[-1])
+#all the rules about indexing apply for negative and positive numbers
+
+# - Range
+a = "computer"
+print(aString[0:3]) #index char 0, char 1, char 2
+ #the last num is exclusive
+ #the first num is inclusive
+
+#the : called the splicing operator
+#putting this at the beg or end will give you the rest of the string
+
+# Example
+
+aStr = "Hello World"
+
+# print the first char of the word using two differrent methods
+
+# print the first three chars of the word
+
+# print the last four chars of the word
+
+# print all but the first 5 chars
+
+# ---------
+
+# Testing Strings
+# Check out "https://docs.python.org/2.5/lib/string-methods.html" for more!
+
+print("is alpha")
+a = "24"
+print(a.isaplha())
+a2 = "sunny"
+print(a2.isalpha())
+#alphanum checks if it alphabetic or numerical
+# #is upper... checks for uppercase
+# #is lower.. checks for lowercase
+# endswith .. it sees if the last charac is equal to the parameter
+
+print("endswith")
+aString33 ="sunny"
+print(aString33.isdigit())
+
+
+# Example
+
+aStr1 = "fall is "
+aStr2 = "100%"
+aStr2 = " the best"
+
+"""
+We want to combine the strings, only if the format is what we want...
+1. String 1 is only alphabetic 
+2. String 2
+	a. The last char is %
+	b. The rest of the chars are numeric
+3. String 3 is uppercase
+Write nested if statements to check these conditions, if they are all true, print the concatanation.
+"""
+print(aStr1.isalpha())
+
+
+# ---------
+
+# Other string functions
+
+# - Strip
+# removes whitespace before or after a word... not in the middle
+print("strip")
+aString = "                           word                "
+print(aString.strip())
+# - Upper and Lower
+changes upper to lower and vice versa
+print("strip")
+aString = "word"
+print(aString.upper())
+# ---------
+
+# Iterating through a string is a way that we can do - or /
+
+# Example- Remove all the l's in the following string
+
+oldString = "lilllltslatlllhurlsdlayl"
+
+# ---------
+
+# Practice Problems
+
+# 1. Swap the letters in the following string
+aStr1 = "The BEST kinD of coOKies are sugar. NO CAP."
+
+# 2. Find how many instances of "abc" are in the following string
+aStr2 = "abcabbcabbcabbcabcaabcabcadbcacbchabc"
+
+# 3. Remove any subsequent occurrence of non-distinct characters in the following string. For example: aab becomes ab
+aStr3 = "aaabbbcbbcaabbca"
