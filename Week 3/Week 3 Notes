@@ -1,1 +1,136 @@
+Week 3 Class Notes
 
+homework review/questions
+
+nested if statements
+
+var1 = 4
+var2 = 10
+
+if var1 > 0:
+  if var1 < var2:
+    print("true")
+
+
+# ----
+
+Loops: repeat lines of code
+
+print("corn")
+print("corn")
+print("corn")
+
+
+# Logic
+1. 
+2. 
+3. 
+
+
+# # Types of Loops (basic)
+# while loop:
+
+
+# print("start loop")
+
+# counter = 5
+# while counter > 0:
+#   print("corn")
+#   counter -= 1
+
+# # else along with while... another way to write what is above
+
+# print("start loop")
+
+# counter = 5
+# while counter > 0:
+#   print("corn")
+#   counter -= 1
+# else:
+#   print("false")
+
+
+# # for loop:
+
+# #for each
+# iterable - examples: string "dog"
+# list = [2,3,4]
+# # int is not an example: 123
+
+# animalList = ["hippo", "giraffe", "lion"]
+
+# for animal in animalList:
+#   print (animal)
+
+# # indexing at python starts at zero... the first element is reffered as the 0th element
+
+# # animalList[0] = "hippo"
+# # animalList[1] = "giraffe"
+
+# for index in range (3):
+#   print(animalList[index])
+
+# # range function
+range(startnum, endnum, countingby(-1 means count down))
+# range(start, stop, step)
+# start - python assumes to 0
+# stop - this you must input 
+# step - python assumes to be 1
+
+# range(0, 5, 1) = [0, 1, 2, 3, 4]
+# range(0, 5, 2) = [0, 2, 4]
+# range(3) = [0, 1, 2]
+
+# for i in range(3):
+#   print(i)
+
+
+# favfood = input("Type your favorite food:")
+# for letter in favfood:
+#   print(letter)
+
+# for i in range(len(food))
+# # ---
+
+# # Nested loops:
+
+# list1 = [0, 1, 2]
+
+# for i in range(3):
+#   for j in range(5):
+#     print(i * j)
+
+# # ---
+
+# Loop control statements: change the execution from the normal sequence
+if you are in a nested loop, it only breaks out of the most inner for loop
+
+
+break = terminates the loop statement and tranfers execution to the statement immediately following the loop
+
+string1 = "i like food"
+for letter in string1:
+  if letter == "z"
+   break
+ else:
+   print(letter) 
+
+print(finished)
+
+continue cause the loop to skip over the remainder of its body and retest its condition
+
+string1 = "i like food"
+for letter in string1:
+  if letter != "z":
+    continue
+  print(letter)
+
+print("finished")
+
+pass: used when a statement is required synaticially but you do not want anything to execute
+
+for i in range(5):
+  if i == 4:
+    pass
+
+CHECK FOR HW ON GITHUB
