@@ -1,0 +1,14 @@
+# Age for voting in the US
+
+age = int(input("Type your current age: "))
+
+if age < 18:
+  print("too young")
+elif 100 > age > 18: 
+  print("u can vote")
+elif age > 100:
+  print("never too old to vote")
+elif age == 18:
+  print("u can vote")  
+else:
+  print("don't know what age u are ")    
