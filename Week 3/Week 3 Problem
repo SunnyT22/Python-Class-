@@ -2,3 +2,21 @@ Example: Get a number from the user.
 1. If the number is odd, print countdown to 0
 2. If the number is even, print a countdown up to 15
  2b. However, anytime you wnat to print the number 13, the gives an error that says "I can't handle 13"
+
+
+
+var1Int = int(input("Type a number: "))
+
+
+
+if (var1Int % 2) != 0: #odd
+  for item in range(var1Int, 0, -1):
+    print(item)
+else:
+  if var1Int> 15:
+    print("too big")
+  for item in range(var1Int, 15, 1):
+    if item == 13:
+      print("I can't handle 13")
+      break
+    print(item)
