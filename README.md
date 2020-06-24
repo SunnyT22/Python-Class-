@@ -14,3 +14,7 @@ W2 Class Survey- https://forms.gle/pm9FB1nGht7foBL47
 Week 3- https://forms.gle/QKmv7fqXmCkyFNN28
 
 W3 Class Survey- https://forms.gle/8ZzHYxb3nDiAtrn89
+
+Week 4- https://forms.gle/wENppJjKDyD1hVzo7
+
+W4 Class Survey- https://forms.gle/r2MEE75eVkFeFRp68
