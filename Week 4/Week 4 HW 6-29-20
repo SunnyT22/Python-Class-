@@ -1,1 +1,20 @@
+aStr = "I AM SRUTI"
 
+# print the first FIVE char of the word using two differrent methods
+
+# print the first TWO chars of the word
+
+# print the last four chars of the word WITH TWO DIFFERENT METHODS.
+
+# print all but the first 5 chars
+
+
+learn = "CodingisFUN and sruti is dumb. sike"
+
+# print the last 6 char of the phrase using two differrent methods
+
+# print the first 10 chars of the phrase
+
+# print the last 8 chars of the word WITH TWO DIFFERENT METHODS.
+
+# print all but the first 4 chars
