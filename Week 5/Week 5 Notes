@@ -49,7 +49,7 @@ print("Introduction to lists")
     # - square brackets []
 # - initializing a list with empty brackets would mean you are creating an empty list
 # - if you want to create a list with items in it, put those items separated by commas in the order you want in the brackets
-myName = ['s', 'u', 'h', 'a', 'n', 'i']
+myName = ['s', 'u', 'n', 'n', 'y', '!']
 # - you can put anything you want in a list: strings, characters, integers, booleans, even other lists!
 # - can mix datatypes in your list
 
