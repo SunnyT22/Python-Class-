@@ -1,0 +1,36 @@
+aStr = "So Annoying "
+
+# print the last char of the word using two differrent methods
+
+# print the first three chars of the word
+
+# print the last four chars of the word
+
+# print all but the first 5 chars
+
+
+
+
+
+aStr = "Bruh Bro Boi "
+
+# print the first char of the word using two differrent methods
+
+# print the first 2 chars of the word
+
+# print the last four chars of the word
+
+# print all but the first 6 chars
+
+
+
+aStr = "yabba man hey srooti i love you...sike... ur wierd i mean weird " 
+
+# print the first char of the word using two differrent methods
+
+# print the first 9 chars of the word
+
+# print the last 2 chars of the word
+
+# print all but the first 20 chars
+
