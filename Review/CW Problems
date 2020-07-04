@@ -1,0 +1,13 @@
+1) Challenge:
+Take two int values from user and print greatest among them.
+
+2) Ask a person for their favorite game..minimum of 2 if/elif and one else  
+
+3) Who's ur favorite person sunny,sruti,aadya,sandeep
+ if:
+ - sunny: "yay! she is AMAZING"
+ - sruti: "ughh she is annoying"
+ - aadya- "so cute"
+ - sandeep- "he got the brains" 
+ 
+ else print only those 4 peeps
